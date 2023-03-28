@@ -21,10 +21,17 @@ cbow&skip-gram计算流程
 1.双向LSTM对语言模型建模不如注意力模型，训练速度较慢；
 2.双向语言模型是采用拼接的方式得到的，特征选择和融合较弱；
 3.当数据数量较大和质量较高时，该模型的良好效果不显著;
-
-
 ### Transformer
+参考资料：  
+- https://jalammar.github.io/illustrated-transformer/
+- http://nlp.seas.harvard.edu/2018/04/03/attention.html  
+
+关键计算流程  
+![图片](images/transformer1.png)
+![图片](images/transformer2.png)
 ### bert
+下游应用方式
+![图片](images/bert.png)
 ### ernie
 ### ALBert
 ### RoBert
@@ -36,11 +43,17 @@ cbow&skip-gram计算流程
 ## GPT类语言模型
 ### gpt
 ### chatgpt
+参考资料：  
+https://blog.csdn.net/Kaiyuan_sjtu/article/details/128663147?spm=1001.2014.3001.5501  
+
 ---
 ## 经典NN模型
 ### TextCNN
 ### RNN/LSTM
 ### seq2seq
+参考资料  
+https://zhuanlan.zhihu.com/p/37601161
+
 ### attention
 ### ABCNN
 ---
@@ -62,3 +75,8 @@ cbow&skip-gram计算流程
 ### CoT,Chain of Thought
 ---
 ## 参考资料
+https://zhuanlan.zhihu.com/p/54743941  
+https://zhuanlan.zhihu.com/p/49271699  
+https://zhuanlan.zhihu.com/p/254821426  
+https://zhuanlan.zhihu.com/p/597586623
+
