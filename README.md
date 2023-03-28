@@ -131,6 +131,7 @@ Generator和Discriminator可以看作两个BERT，生成器的任务是MLM，判
 ---
 ## GPT类语言模型
 ### gpt
+![](images/gpt.png)
 ### chatgpt
 参考资料：  
 https://blog.csdn.net/Kaiyuan_sjtu/article/details/128663147?spm=1001.2014.3001.5501  
