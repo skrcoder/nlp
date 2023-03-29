@@ -148,7 +148,12 @@ https://zhuanlan.zhihu.com/p/37601161
 ### ABCNN
 ---
 ## 多模融合模型
+参考资料：  
+https://baijiahao.baidu.com/s?id=1760849279374584602&wfr=spider&for=pc  
+https://zhuanlan.zhihu.com/p/539906825
 ### 多域DNN
+### CLIP
+### METER: A Multimodal End-to-end TransformER Framework
 ### 多流交互模型
 #### LXMERT
 #### VILBERT
